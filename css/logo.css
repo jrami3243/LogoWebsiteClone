@@ -1,0 +1,112 @@
+#page-wrap {
+     /*width: 1200px;*/
+     margin: 0 auto;
+}
+
+}
+a:visited {
+	text-decoration: none;
+}
+
+
+
+a:hover{
+	text-decoration: none;
+
+}
+a:active {
+text-decoration: none;
+}
+a{
+color:white;
+}
+body{
+
+	margin: 0px;
+}
+nav{
+	background: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    padding-left: 30px;
+    padding-right: 5px;
+}
+
+h1 {
+    font-size: 50px;
+}
+buttton{
+	height: 50px;
+    width: 200px;
+    background: #0090BF;
+    border: aliceblue;
+    color: white;
+}
+.Title{
+    background-color: #00c0ff;
+    height: 410px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+section.mainwords{
+	padding-left: 30px;
+}
+
+
+.computer{
+    float: right;
+}
+
+section.top-text {
+    max-width: 1200px;
+    margin: 30px;
+}
+
+
+section.puppie-boxes {
+    display: flex;
+    max-width: 1200px;
+    margin: 30px;
+    justify-content: space-between;
+}
+section.puppy{
+    width: 200px;
+}
+/*section.crazy-dog {
+    width: 200px;
+}
+section.husky {
+    width: 200px;
+}
+*/
+aside.news-box {
+    width: 200px;
+    background-color: #444444;
+    color: white;
+}
+
+section.email-bar {
+    background-color: #EEEEEE;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+section.righ-temail-bar{
+	padding-left:8px;
+}
+footer{
+	background-color: #444444;
+    color: white;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    justify-content: space-between;
+
+}
+section.right-foot {
+    display: flex;
+}
